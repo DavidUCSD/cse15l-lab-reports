@@ -1,6 +1,10 @@
 # CSE Lab Report
-## Step 1
- The beginning of the lab was a bit confusing with how the grouping was organized but was quick
+## Step 1 - Groups
+ The beginning of the lab was a bit confusing with how the grouping was organized but was quickily able to get into my groups. After introducing ourselves to each other, we got into the lab. Before this lab, I have never had a Github account so it was new to me and I was confused about making a course specific account for CSE15L. 
+ 
+ ## Step 2 - CSE15L Account - cs15lwi23arl
+  I had more help from a group member in this step than other steps after this because this is my first time in the website. Once I recent my password, I was able to 
+  
 
 
 
