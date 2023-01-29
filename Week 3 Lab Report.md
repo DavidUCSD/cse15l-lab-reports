@@ -1,3 +1,4 @@
-# Lab Report 2 (Lab 2 & 3)
+# Week 3 Lab Report
 
-**Lab 2**
+**Step one**
+
