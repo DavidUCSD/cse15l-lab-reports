@@ -20,7 +20,7 @@
   
   **Step 4**
     After typing of the code *nano ListExamples.java* and editting the code which was changing one of the indexs from *index1 += 1* into *index2 += 1*, I reran the code once again to get a success. Once the output of the code give you an **OK**, you go on to **Step 5**
-    ![image] (https://user-images.githubusercontent.com/122570747/224880605-1aab2e54-2c74-4ff5-967e-c1452e350fa4.png)
+    ![Image](https://user-images.githubusercontent.com/122570747/224880605-1aab2e54-2c74-4ff5-967e-c1452e350fa4.png)
     
   **Step 5**
     
