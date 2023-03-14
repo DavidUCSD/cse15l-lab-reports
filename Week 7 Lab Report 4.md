@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/122570747/224875051-2c4927b5-0217-48a7-8a77-b6066e02c440.png)
 
 **Step 3:** 
-  Once the repository is cloned in the terminal, we use the command *cd lab7* in order to get to the test (this took 9 ups to get to the cd lab7). Then we run the test to find out if the test fail or not. As we can see from the screenshot, the test has failed. (It took 8 ups to get to th command to compile then 7 ups to run the test) In order to have the code run successful, we have to edit the code which brings us to **Step 4**.
+  Once the repository is cloned in the terminal, we use the command *cd lab7* in order to get to the test (this took 9 ups to get to the cd lab7). Then we run the test to find out if the test fail or not. As we can see from the screenshot, the test has failed. (It took 8 ups to get to the command to compile then 7 ups to run the test) In order to have the code run successful, we have to edit the code which brings us to **Step 4**.
    
  ![image](https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png)
   
