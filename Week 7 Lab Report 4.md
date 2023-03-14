@@ -6,7 +6,7 @@
 **Step 1:**
   Login into the remote server through ssh was the first step. After that, we *cd lab7* in order to get into the file which brings us to **Step 2** 
 
-<img width="640" alt="Screenshot 2023-03-13 at 6 44 09 PM" src="https://user-images.githubusercontent.com/122570747/224873017-3da02603-a7df-4cfb-a9c6-a57d71b10b13.png">
+![image](https://user-images.githubusercontent.com/122570747/224873017-3da02603-a7df-4cfb-a9c6-a57d71b10b13.png)
 
 **Step 2:**
   github.com/ucsd-cse15l-w23/lab7/ (a total of 10 ups were used  to get to the command **'<up>' '<up>' '<up>' '<up>' '<up>' '<up>' '<up>' '<up>' '<up>' '<up>' '<Enter>'** ) is up next. Doing so was able to clone your fork of the repository from your Github account.
