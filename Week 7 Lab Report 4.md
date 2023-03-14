@@ -16,8 +16,7 @@
 **Step 3:** 
   Once the repository is cloned in the terminal, we run the test to find out if the test fail or not. As we can see from the screenshot, the test has failed. In order to have the code run successful, we have to edit the code which brings us to Step 4
    
- ![image] (https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png)
-  As we can see from the screenshot, the test has failed. In order to have the code run successful, we have to edit the code which brings us to Step 4. 
+ ![image](https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png)
   
   **Step 4**
   
