@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/122570747/224873017-3da02603-a7df-4cfb-a9c6-a57d71b10b13.png)
 
 **Step 2:**
-  github.com/ucsd-cse15l-w23/lab7/ (a total of 10 ups were used to get to the command) is up next. Doing so was able to clone your fork of the repository from your Github account.
+  github.com/ucsd-cse15l-w23/lab7/ (a total of 10 ups were used to get to the command) is up next. Doing so was able to clone your fork of the repository from your Github account. The reason for cloning that repository was because it came from my Github. 
   
 ![image](https://user-images.githubusercontent.com/122570747/224875051-2c4927b5-0217-48a7-8a77-b6066e02c440.png)
 
