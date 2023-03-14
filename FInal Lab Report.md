@@ -10,6 +10,7 @@ I had struggled to grasp before. Commands such as
 4. clone
 5. 
 just to name a few.
+
 **Before Practicing for the Skill Demo**
 
 When I first started, I was confused just like my classmates. The wording on EdStem was a 
@@ -39,3 +40,6 @@ The way you start the skill demo is by:
 18. The website will then tell you to add to the URL
 19. It will ask you about the Bahamas-History from earlier and also ask to find another country that has a certain amount of files
 20. The country I picked was Italy.
+
+The skill demo required me to use commands that I was unfamilar with and forced me to use them which showed me hwo it
+is it used in a more or less real life situation, aka, the skill demo. 
