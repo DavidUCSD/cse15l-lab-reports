@@ -26,7 +26,5 @@
     The last step is going to be commit and push. We use the commands *git commit -m* and then *git push origin main*
 
  ![image](https://user-images.githubusercontent.com/122570747/224881569-a89db5f1-bfc4-4bfe-94ea-865d8b8b82e2.png)
-\
-    
-  
+
 
