@@ -18,12 +18,14 @@
    
  ![image](https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png)
   
-  **Step 4**
+  **Step 4:**
     After typing of the code *nano ListExamples.java* and editting the code which was changing one of the indexs from *index1 += 1* into *index2 += 1*, I reran the code once again to get a success. Once the output of the code give you an **OK**, you go on to **Step 5**
     ![Image](https://user-images.githubusercontent.com/122570747/224880605-1aab2e54-2c74-4ff5-967e-c1452e350fa4.png)
     
-  **Step 5**
-    
+  **Step 5:**
+    The last step is going to be commit and push. We use the commands *git commit -m* and then *git push origin main*
+
+ ![image](https://user-images.githubusercontent.com/122570747/224881569-a89db5f1-bfc4-4bfe-94ea-865d8b8b82e2.png)
 
     
   
