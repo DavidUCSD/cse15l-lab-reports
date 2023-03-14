@@ -25,7 +25,7 @@ The way you start the skill demo is by:
 5. Then cd ~
 6. This is an extra step but **ls** to make sure you are out of the skill demo server
 7. Clone skill demo data
-8. The cd
+8. Then cd
 9. I then used the **find** command and typed find written_2/
 10. Then I put find written_2 > fileFolder
 11. Then used the **grep** command to find "Lucayans" : grep -l -r "Lucayans"
