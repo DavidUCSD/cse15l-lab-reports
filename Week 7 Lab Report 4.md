@@ -5,6 +5,7 @@
 
 **Step 1:**
   Login into the remote server through ssh was the first step. After that, we *cd lab7* in order to get into the file which brings us to **Step 2** 
+
 <img width="640" alt="Screenshot 2023-03-13 at 6 44 09 PM" src="https://user-images.githubusercontent.com/122570747/224873017-3da02603-a7df-4cfb-a9c6-a57d71b10b13.png">
 
 **Step 2:**
@@ -14,7 +15,8 @@
 
 **Step 3:** 
   Once the repository is cloned in the terminal, we run the test to find out if the test fail or not. The amount of times to get to there was 
-   <img width="681" alt="Screenshot 2023-03-13 at 6 48 12 PM" src="https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png">
+   
+  <img width="681" alt="Screenshot 2023-03-13 at 6 48 12 PM" src="https://user-images.githubusercontent.com/122570747/224876920-f77b9e25-fb9f-4605-ab2f-ae68575f604b.png">
   As we can see from the screenshot, the test has failed. In order to have the code run successful, we have to edit the code which brings us to Step 4. 
   
   **Step 4**
