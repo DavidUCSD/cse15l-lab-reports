@@ -39,5 +39,5 @@ The way you start the skill demo is by:
 19. It will ask you about the Bahamas-History from earlier and also ask to find another country that has a certain amount of files
 20. The country I picked was Italy.
 
-The skill demo required me to use commands that I was unfamilar with and forced me to use them which showed me hwo it
+The skill demo required me to use commands that I was unfamilar with and forced me to use them which showed me how it
 is it used in a more or less real life situation, aka, the skill demo. 
