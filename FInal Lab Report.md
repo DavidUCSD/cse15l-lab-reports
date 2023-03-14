@@ -8,17 +8,15 @@ I had struggled to grasp before. Commands such as
 2. cd .. / cd ~
 3. Ls
 4. clone
-5. 
+
 just to name a few.
 
 **Before Practicing for the Skill Demo**
-
 When I first started, I was confused just like my classmates. The wording on EdStem was a 
 bit worry because it seemed like a lot more than it actually was. I did have a bit of help 
 from Chat GBT and a classmate of mine who helped me through each step by dropping hints. 
 
 **Skill Demo Task**
-
 The way you start the skill demo is by:
 1. Logging into my shh 
 2. Then cd into the skill demo server
